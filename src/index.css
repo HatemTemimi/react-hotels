@@ -97,7 +97,7 @@ h1 {
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .hotel-preview:hover {
-  border: 2px solid rgb(77, 77, 77);
+  border: 3px solid rgb(77, 77, 77);
 }
 .hotel-preview h2 {
   font-size: 20px;
