@@ -22,8 +22,6 @@
 </ul><ul>
 <li>List All Hotels</li>
 </ul><h2>Setup</h2>
-<hr><p>Install dependencies and run the project</p><h5>Steps</h5><ul>
-<li>npm i</li>
-</ul><ul>
-<li>npm run dev</li>
-</ul>
+<hr><p>Install dependencies and run the project</p><h5>Steps</h5>
+```npm i```
+```npm run dev```
