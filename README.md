@@ -1,5 +1,5 @@
-<h1>React Hotels</h1>
-<hr><p>Hotels Application made using react with typescript / react query / firebase</p><h2>Technologies Used</h2>
+<h1>Hotels Crud application with React, Typescript, React Query and Firebase</h1>
+<hr><p>Hotels Application to manage hotels</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>React</li>
 </ul><ul>
