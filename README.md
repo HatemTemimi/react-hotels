@@ -1,4 +1,4 @@
-<h1> :hotel: Hotels Crud application with React, Typescript, React Query and Firebase</h1>
+<h1> :hotel: :rocket: Hotels Crud application with React, Typescript, React Query and Firebase</h1>
 <hr><p>Hotels Application to manage hotels</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>React</li>
